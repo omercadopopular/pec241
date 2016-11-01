@@ -8,9 +8,12 @@ Presume-se que a taxa de juros implícita paga pelo governo é a mesma observada
 
 Outros analistas podem divergir desses resultados. Como política de transparência, publicamos essas planilhas e a fonte dos dados. Se você achar algum erro, por favor entre em contato com o autor.
 
-Premissas
-
+## Premissas
 * O PIB segue sua trajetória histórica e a regra fiscal, sendo pré-anunciada, não tem efeitos sobre o produto. Isso não é algo tão estranho. Estimações empíricas sobre o Brasil mostram que choques fiscais pelo lado do gasto têm impacto nulo sobre o PIB após dois anos.
 * A taxa de juros implícitos da dívida são os mesmos observados historicamente, a despeito do estoque declinante da dívida (essa premissa provavelmente exacerba a conta de juros e retarda o declínio da dívida).
 * Os ativos do governo e os títulos da dívida pública sob poder do Banco Central seguem suas trajetórias históricas.
 * Transferências constitucionais para estados e municípios, Fundeb, FCDF e créditos extraordinários seguem suas trajetórias históricas. Os demais gastos primários são congelados em termos reais, nos valores de 2006.
+
+## Detalhes
+
+http://mercadopopular.org/2016/10/pec-241-adotada-dez-anos-atras/
